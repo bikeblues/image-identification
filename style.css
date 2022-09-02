@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+}
+.heading{
+    width:70%;
+    font-size: 30px;
+}
+.heading:hover{
+    background-color: grey;
+}
+.name_of_objects{
+    color:yellow;
+}
+label{
+    color:white;
+}
